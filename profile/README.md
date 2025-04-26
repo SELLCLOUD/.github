@@ -1,11 +1,12 @@
 # SELLCLOUD
 * 강력하게 자동화된 Instance Cloud
+* 프로젝트 기획 및 제작 기간 (2024.01.11 ~ 03.14)
 ## 주요 기능
-* 프로젝트 기간 (2024.02.01 ~ 03.14)
 * Vultr API 기반 자동화 Instance Cloud
-* Toss payments 예치금 지불 기반
+* Toss payments + Payapp 예치금 지불 기반
 * WebHosting Instance 자동화 생성 및 관리
 * Backend + FrontEnd 통합 모듈화 기반
+* 전화번호 인증 시스템 구현
 ## 사용 언이 및 스택
 * PHP 8.2
 * MariaDB
